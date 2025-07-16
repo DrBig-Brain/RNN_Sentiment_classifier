@@ -47,4 +47,4 @@ pip install -r requirements.txt
 
 ## License
 
-This project is
+This project is for educational purposes.
